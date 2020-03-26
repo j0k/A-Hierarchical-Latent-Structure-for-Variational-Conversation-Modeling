@@ -1,3 +1,12 @@
+## TODO
+
+1. add evalutaion examples
+
+2. describe flow howto use databases and manual download (with example)
+
+3. adapt code for windows env
+
+
 # Variational Hierarchical Conversation RNN (VHCR)
 [PyTorch 0.4](https://github.com/pytorch/pytorch) Implementation of ["A Hierarchical Latent Structure for Variational Conversation Modeling"](https://arxiv.org/abs/1804.03424) (NAACL 2018 Oral)
 * [NAACL 2018 Oral Presentation Video](https://vimeo.com/277671819)
